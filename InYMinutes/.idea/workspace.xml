@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="434a47e7-7eae-4e1b-924f-bd99a3c00800" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ClojureScript Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1TEeg4uSCyOPyhExmpYn3ndoYIH" />
+  <component name="PropertiesComponent">
+    <property name="cursive.last.file.extension./home/student/clojure/InYMinutes/src" value="cljs" />
+    <property name="last_opened_file_path" value="$USER_HOME$/exercism/clojure/hello-world" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="ReplState" timestamp="1573043086263">{:repl-history {:ide [], :local [{:command &quot;(= 2 1)&quot;, :offset 7, :ns &quot;Main&quot;} {:command &quot;(not (= 2 1))&quot;, :offset 13, :ns &quot;Main&quot;} {:command &quot;(+ 1 (- 3 2))&quot;, :offset 13, :ns &quot;Main&quot;} {:command &quot;(class 1)&quot;, :offset 9, :ns &quot;Main&quot;} {:command &quot;(class 1.)&quot;, :offset 10, :ns &quot;Main&quot;} {:command &quot;(class \&quot;\&quot;)&quot;, :offset 10, :ns &quot;Main&quot;} {:command &quot;(class false)&quot;, :offset 13, :ns &quot;Main&quot;} {:command &quot;(class nil)&quot;, :offset 11, :ns &quot;Main&quot;} {:command &quot;(+ 1 2)&quot;, :offset 7, :ns &quot;Main&quot;} {:command &quot;(eval (+ 1 2))&quot;, :offset 14, :ns &quot;Main&quot;} {:command &quot;(eval '(+ 1 2))&quot;, :offset 15, :ns &quot;Main&quot;} {:command &quot;(class [1 2 3])&quot;, :offset 15, :ns &quot;Main&quot;} {:command &quot;(class (1 2 3))&quot;, :offset 15, :ns &quot;Main&quot;} {:command &quot;(class '(1 2 3))&quot;, :offset 16, :ns &quot;Main&quot;} {:command &quot;(claass (list 1 2 3))&quot;, :offset 21, :ns &quot;Main&quot;} {:command &quot;(class (list 1 2 3))&quot;, :offset 20, :ns &quot;Main&quot;} {:command &quot;(coll? '(1 2 3))&quot;, :offset 16, :ns &quot;Main&quot;} {:command &quot;(seq? '(1 2 3))&quot;, :offset 15, :ns &quot;Main&quot;} {:command &quot;(seq? [1 2 3])&quot;, :offset 14, :ns &quot;Main&quot;} {:command &quot;(range 3)&quot;, :offset 9, :ns &quot;Main&quot;} {:command &quot;(range)&quot;, :offset 7, :ns &quot;Main&quot;} {:command &quot;(range 4)&quot;, :offset 9, :ns &quot;Main&quot;} {:command &quot;(range 10)&quot;, :offset 10, :ns &quot;Main&quot;} {:command &quot;(coll? [1 2 3])&quot;, :offset 15, :ns &quot;Main&quot;} {:command &quot;(- 2 1)&quot;, :offset 7, :ns &quot;Main&quot;} {:command &quot;(ns Main)&quot;, :offset 9, :ns &quot;Main&quot;} {:command &quot;(+ 1 1)&quot;, :offset 7, :ns &quot;Main&quot;} {:command &quot;(take 4 (range))&quot;, :offset 16, :ns &quot;Main&quot;} {:command &quot;(cons 4 [1 2 3])&quot;, :offset 16, :ns &quot;Main&quot;} {:command &quot;(cons 4 '(1 2 3))&quot;, :offset 17, :ns &quot;Main&quot;} {:command &quot;(conj 3 [1 2 3])&quot;, :offset 16, :ns &quot;Main&quot;} {:command &quot;(conj [1 2 3] 4)&quot;, :offset 16, :ns &quot;Main&quot;} {:command &quot;(conj '(1 2 3) 4)&quot;, :offset 17, :ns &quot;Main&quot;} {:command &quot;(map inc [1 2 3])&quot;, :offset 17, :ns &quot;Main&quot;} {:command &quot;(filter even? [1 2 3])&quot;, :offset 22, :ns &quot;Main&quot;} {:command &quot;(reduce * [1 2 3 4])&quot;, :offset 20, :ns &quot;Main&quot;} {:command &quot;(reduce conj [] '(1 2 3 4))&quot;, :offset 27, :ns &quot;Main&quot;} {:command &quot;(fn [] \&quot;hello world\&quot;)&quot;, :offset 21, :ns &quot;Main&quot;} {:command &quot;(def x 1)&quot;, :offset 9, :ns &quot;Main&quot;} {:command &quot;(x)&quot;, :offset 3, :ns &quot;Main&quot;} {:command &quot;(str \&quot;\&quot; x)&quot;, :offset 10, :ns &quot;Main&quot;} {:command &quot;(fn [] \&quot;Hello world\&quot;)&quot;, :offset 21, :ns &quot;Main&quot;} {:command &quot;(def hello (fn [] \&quot;Hello world\&quot;))&quot;, :offset 33, :ns &quot;Main&quot;} {:command &quot;(hello)&quot;, :offset 7, :ns &quot;Main&quot;} {:command &quot;(defn helloYou [name] str \&quot;Hello \&quot; name)&quot;, :offset 40, :ns &quot;Main&quot;} {:command &quot;(helloYou [\&quot;mile\&quot;])&quot;, :offset 19, :ns &quot;Main&quot;} {:command &quot;(helloYou \&quot;mile\&quot;)&quot;, :offset 17, :ns &quot;Main&quot;} {:command &quot;((defn hello\n  [name]\n  (str \&quot;Hello \&quot; namme)))&quot;, :offset 46, :ns &quot;Main&quot;} {:command &quot;((defn hello\n  [name]\n  (str \&quot;Hello \&quot; name)))&quot;, :offset 45, :ns &quot;Main&quot;} {:command &quot;(\&quot;mile\&quot;)&quot;, :offset 8, :ns &quot;Main&quot;} {:command &quot;((defn hello\n  [name]\n  (str \&quot;Hello \&quot; name)) \&quot;mile\&quot;)&quot;, :offset 52, :ns &quot;Main&quot;} {:command &quot;(def hello2 #(str \&quot;Hello \&quot; %1))&quot;, :offset 31, :ns &quot;Main&quot;} {:command &quot;(hello2 \&quot;MIle\&quot;)&quot;, :offset 15, :ns &quot;Main&quot;} {:command &quot;(defn hello \n      ([] \&quot;Hello world 3\&quot;)\n      ([name] (str \&quot;Hello 3 \&quot; name)))&quot;, :offset 77, :ns &quot;Main&quot;} {:command &quot;(defn hello3 \n      ([] \&quot;Hello world 3\&quot;)\n      ([name] (str \&quot;Hello 3 \&quot; name)))&quot;, :offset 78, :ns &quot;Main&quot;} {:command &quot;(hello3)&quot;, :offset 8, :ns &quot;Main&quot;} {:command &quot;(hello3 \&quot;Mike\&quot;)&quot;, :offset 15, :ns &quot;Main&quot;} {:command &quot;(defn count-args [&amp; args]\n      (str \&quot;You passed \&quot; (count args) \&quot; args: \&quot; args))&quot;, :offset 80, :ns &quot;Main&quot;} {:command &quot;(count-args 1 2 3)&quot;, :offset 18, :ns &quot;Main&quot;} {:command &quot;(defn hello-count [name &amp;args]\n      (str \&quot;Hello \&quot; name \&quot; ,you passed \&quot; (count args) \&quot; extra args\&quot;))&quot;, :offset 100, :ns &quot;Main&quot;} {:command &quot;(defn hello-count [name &amp; args]\n      (str \&quot;Hello \&quot; name \&quot; ,you passed \&quot; (count args) \&quot; extra args\&quot;))&quot;, :offset 101, :ns &quot;Main&quot;} {:command &quot;(hello-count \&quot;Finn\&quot; 1 2 3)&quot;, :offset 26, :ns &quot;Main&quot;} {:command &quot;(class {:a 1 :b 2 :c 3})&quot;, :offset 24, :ns &quot;Main&quot;} {:command &quot;(class (hash-map {:a 1 :b 2 :c 3}))&quot;, :offset 35, :ns &quot;Main&quot;} {:command &quot;(class (hash-map :a 1 :b 2 :c 3))&quot;, :offset 33, :ns &quot;Main&quot;} {:command &quot;(class :a)&quot;, :offset 10, :ns &quot;Main&quot;} {:command &quot;(def stringmap {:a 1 :b 2 :c 3})&quot;, :offset 32, :ns &quot;Main&quot;} {:command &quot;(println stringmap)&quot;, :offset 19, :ns &quot;Main&quot;} {:command &quot;(def keymap {:a 1 :b 2 :c 3})&quot;, :offset 29, :ns &quot;Main&quot;} {:command &quot;(def stringmap {\&quot;a\&quot; 1 \&quot;b\&quot; 2 \&quot;c\&quot; 3})&quot;, :offset 35, :ns &quot;Main&quot;} {:command &quot;(print stringmap)&quot;, :offset 17, :ns &quot;Main&quot;} {:command &quot;(stringmap \&quot;a\&quot;)&quot;, :offset 15, :ns &quot;Main&quot;} {:command &quot;(keymap :a)&quot;, :offset 11, :ns &quot;Main&quot;} {:command &quot;(:b stringmap)&quot;, :offset 14, :ns &quot;Main&quot;} {:command &quot;(:b keymap)&quot;, :offset 11, :ns &quot;Main&quot;} {:command &quot;(def newKeyMap (assoc keymap :d 4))&quot;, :offset 35, :ns &quot;Main&quot;} {:command &quot;(keymap)&quot;, :offset 8, :ns &quot;Main&quot;} {:command &quot;(print keymap)&quot;, :offset 14, :ns &quot;Main&quot;} {:command &quot;(print newKeyMap)&quot;, :offset 17, :ns &quot;Main&quot;} {:command &quot;(print (dissoc newKeyMap :a :b))&quot;, :offset 32, :ns &quot;Main&quot;} {:command &quot;(class #{1 2 3})&quot;, :offset 16, :ns &quot;Main&quot;} {:command &quot;(set [1 2 3 4 56 6])&quot;, :offset 20, :ns &quot;Main&quot;} {:command &quot;(conj #{12 2 3} 4)&quot;, :offset 18, :ns &quot;Main&quot;} {:command &quot;(disj #{1 2 3} 1)&quot;, :offset 17, :ns &quot;Main&quot;} {:command &quot;(set {1 2 3} 1)&quot;, :offset 15, :ns &quot;Main&quot;} {:command &quot;(#{1 2 3} 1)&quot;, :offset 12, :ns &quot;Main&quot;} {:command &quot;(#{1 2 3} 4)&quot;, :offset 12, :ns &quot;Main&quot;} {:command &quot;(if (= 0 1) \&quot;a\&quot; \&quot;b\&quot;)&quot;, :offset 20, :ns &quot;Main&quot;} {:command &quot;(if (= 0 1) \&quot;a\&quot;)&quot;, :offset 16, :ns &quot;Main&quot;} {:command &quot;(let [a 1 b 2] (&gt; a b))&quot;, :offset 23, :ns &quot;Main&quot;} {:command &quot;(do (print \&quot;Hello\&quot;) \&quot;World\&quot;)&quot;, :offset 28, :ns &quot;Main&quot;} {:command &quot;(defn print-and-say-hello [name]\n      (print \&quot;Saying hello to \&quot; name)\n      (str \&quot;Hello \&quot; name))&quot;, :offset 97, :ns &quot;Main&quot;} {:command &quot;(print-and-say-hello \&quot;Jeff\&quot;)&quot;, :offset 28, :ns &quot;Main&quot;} {:command &quot;(let [name \&quot;Urkel\&quot;] (print \&quot;Saying hello to \&quot; name) )&quot;, :offset 53, :ns &quot;Main&quot;} {:command &quot;(-&gt; {:a 1 :b 2}\n    (assoc :c 3)\n    (dissoc :b))&quot;, :offset 49, :ns &quot;Main&quot;} {:command &quot;(-&gt;&gt; (range 10)\n     (map inc)\n     (filter odd?)\n     (into []))&quot;, :offset 65, :ns &quot;Main&quot;} {:command &quot;(as-&gt; [1 2 3] input\n      (map inc input)\n      (nth input 2)\n      (conj [4 5 6] input [8 9 10]))&quot;, :offset 98, :ns &quot;Main&quot;} {:command &quot;(as-&gt; [1 2 3] input\n      (map inc input)\n      (nth input 2)\n)&quot;, :offset 63, :ns &quot;Main&quot;} {:command &quot;(use 'clojure.set')&quot;, :offset 19, :ns &quot;Main&quot;} {:command &quot;(def my-atom (atom {}))&quot;, :offset 23, :ns &quot;Main&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="InYMinutes" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="InYMinutes" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureScriptRunConfiguration" factoryName="Clojure Script">
+      <module name="InYMinutes" />
+      <setting name="path" value="" />
+      <setting name="namespace" value="Main" />
+      <setting name="execution" value="INTELLIJ" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="434a47e7-7eae-4e1b-924f-bd99a3c00800" name="Default Changelist" comment="" />
+      <created>1573029789592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573029789592</updated>
+    </task>
+    <servers />
+  </component>
+</project>
