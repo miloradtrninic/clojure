@@ -1,4 +1,4 @@
-(ns joyofclojure.part2.part2_6)
+(ns joyofclojure.part1.part2.part2_6)
 
 ;Locals, loops, and blocks
 

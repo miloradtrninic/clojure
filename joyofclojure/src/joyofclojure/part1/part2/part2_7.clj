@@ -1,4 +1,4 @@
-(ns joyofclojure.part2.part2-7)
+(ns joyofclojure.part1.part2.part2-7)
 
 ; evaluation
 

@@ -1,4 +1,4 @@
-(ns joyofclojure.part2.part2-8
+(ns joyofclojure.part1.part2.part2-8
   (:import (java.util HashMap Date)
            (java.awt Point)))
 

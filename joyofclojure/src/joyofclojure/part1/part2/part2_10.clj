@@ -1,4 +1,4 @@
-(ns joyofclojure.part2.part2-10
+(ns joyofclojure.part1.part2.part2-10
   (:require [clojure.set :as s])
   (:require [clojure.string :refer (capitalize)])
   (:refer clojure.set :rename {union onion}))
